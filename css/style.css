@@ -178,6 +178,11 @@ footer{
         flex-wrap: wrap;
         height: 60vw;
         margin-bottom: 10vh;
+        font-size: 20px;
+    }
+
+    .main__Fotos img {
+        width: 60vw;
     }
 
     .main__Robo img {
@@ -186,6 +191,10 @@ footer{
 
     .main__Equipe{
         margin: 0;
+    }
+
+    .main__EquipeTexto {
+        font-size: 22px;
     }
 
     .paragrafo  {
@@ -219,6 +228,28 @@ footer{
     }
 
     .main__Robo {
-        margin-bottom: 5vw;
+        margin-bottom: 40vw;
+    }
+
+    .main__Fotos img {
+        width: 70vw;
+    }
+
+    .paragrafo  {
+        font-size: 16px;
+    }
+
+    .main__EquipeTexto {
+        margin: 5vh 20vw;
+        font-size: 16px;
+    }
+
+    .footer__Fiap img{
+        height: 30vw;
+        width: auto;
+    }
+
+    .footer__Apps i{
+       font-size: 5vh;
     }
 }
